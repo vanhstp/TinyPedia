@@ -5,7 +5,7 @@ hero:
     name: 小百科 (TinyPedia)
     text: 专注于一个人（或一些人）的小百科
     alt: 小百科 (TinyPedia)
-    image: /TinyPedia1.png
+    image: 'https://raw.githubusercontent.com/vanhstp/TinyPedia/master/docs/.vitepress/public/TinyPedia1.png'
     tagline: 以下是进度预览
 
 features:

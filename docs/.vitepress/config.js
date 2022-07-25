@@ -9,7 +9,7 @@ export default {
     },
     themeConfig: {
         siteTitle: '小百科 (TinyPedia)',
-        logo: 'https://raw.githubusercontent.com/vanhstp/KunPedia/master/docs/.vitepress/public/KunPedia-02.png',
+        logo: 'https://raw.githubusercontent.com/vanhstp/TinyPedia/master/docs/.vitepress/public/TinyPedia2.png',
         footer: {
             copyright: 'TinyPedia by vanhstp ｜ Powered by VitePress'
         },
