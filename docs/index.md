@@ -20,6 +20,6 @@ features:
   details: 东北小百科、丁真小百科
 - icon: ⌛️
   title: 维护中
-  details: 无
+  details: 坤坤小百科
 
 ---
