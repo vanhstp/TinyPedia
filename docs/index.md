@@ -23,3 +23,9 @@ features:
   details: 坤坤小百科
 
 ---
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #2fb4f7, #7049fc);
+}
+</style>
